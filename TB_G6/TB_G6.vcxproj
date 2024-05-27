@@ -131,6 +131,7 @@
     <ClCompile Include="Cola.cpp" />
     <ClCompile Include="Ejecutivo.cpp" />
     <ClCompile Include="ListaEnlazada.cpp" />
+    <ClCompile Include="ListaNotas.cpp" />
     <ClCompile Include="Menu.cpp" />
     <ClCompile Include="Nodo.cpp" />
     <ClCompile Include="Notas.cpp" />
@@ -146,6 +147,7 @@
     <ClInclude Include="Cola.h" />
     <ClInclude Include="Ejecutivo.h" />
     <ClInclude Include="ListaEnlazada.h" />
+    <ClInclude Include="ListaNotas.h" />
     <ClInclude Include="Menu.h" />
     <ClInclude Include="Nodo.h" />
     <ClInclude Include="Nodo4.h" />
